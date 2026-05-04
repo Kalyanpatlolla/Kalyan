@@ -29,9 +29,9 @@
 ### 🛡️ PINIT — Image Forensics Platform
 Full-stack data and authentication platform for image ownership tracking. Built during my CPT internship at Career Solutions.
 
-- Designed an **11-table normalized PostgreSQL schema** with full referential integrity
+- Designed an **normalized PostgreSQL schema** with full referential integrity
 - Built a **Python ETL pipeline** ingesting image metadata, perceptual hashes, and user telemetry with Pydantic validation
-- Optimized SQL queries across **30+ REST endpoints** to under 500 ms
+- Optimized SQL queries across **30+ REST endpoints** 
 - Containerized the data layer with Docker and automated deployments via GitHub CI/CD
 
 **Stack:** Python · FastAPI · PostgreSQL · Docker · GitHub Actions
