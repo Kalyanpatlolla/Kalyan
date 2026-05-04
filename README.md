@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Kalyan Reddy Patlolla</h1>
-<h3 align="center">Master's in Computer Science | Building Data Pipelines & Backend Systems</h3>
+<h3 align="center">Master's in Computer Science</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kalyanreddy29/">
@@ -97,16 +97,6 @@ Cloud-based data pipeline transforming customer transaction data into reporting-
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalyanreddy292&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalyanreddy292&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyanreddy292&layout=compact&theme=default&hide_border=true" />
-</p>
 
 ---
 
